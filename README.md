@@ -48,7 +48,7 @@ This project is a web application that allows users to upload audio files and de
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/GauravOOO2/voice_activity_detecting_project.git
+   git clone https://github.com/GauravOOO2/voice_activity_detecting_project_frontend.git
    ```
 
 ### Frontend Setup
