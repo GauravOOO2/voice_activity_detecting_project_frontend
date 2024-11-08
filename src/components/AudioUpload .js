@@ -51,7 +51,7 @@ const AudioUpload = () => {
     return (
         <div className="min-h-screen bg-gray-100 flex items-center justify-center">
             <div className="bg-white shadow-lg rounded-lg p-8 max-w-lg w-full">
-                <h1 className="text-3xl font-bold text-center text-blue-600 mb-6">Voice Activity Detection</h1>
+                <h1 className="text-3xl font-bold text-center text-blue-600 mb-6">Voice Activity Detection Upload Audio File</h1>
                 
                 <input 
                     type="file" 
